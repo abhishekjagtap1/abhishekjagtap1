@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Robotics graduate from University of Lübeck<br><br>👯 I’m currently working on:<br>Implementing 3D Object detection via fusing lidar and camera on nuScenes dataset<br>🌱 I’m currently learning:<br>3D reconstruction, Sensor Data-Fusion, Scaling AI using Simulation Data<br>🤝 I’m looking to collaborate on:<br>Implementing research papers in computer vision <br>💬 Ask me about:<br>Deep Learning, pytorch, Math, Continual Learning and Domain Adaptation etc...<br>⚡Fun fact: I rarely sleep at night<br> Current Mood: " Every now and then I feel the temptation to design a programming language but then I just lie down until it goes away "<br>
+🔭 I’m a Robotics graduate from University of Lübeck<br><br>👯 I’m currently working on: Implementing 3D Object detection via fusing lidar and camera on nuScenes dataset<br>🌱 I’m currently learning: 3D reconstruction, Sensor Data-Fusion, Scaling AI using Simulation Data<br>🤝 I’m looking to collaborate on: Implementing research papers in computer vision <br>💬 Ask me about: Deep Learning, pytorch, Math, Continual Learning and Domain Adaptation etc...<br>⚡Fun fact: I rarely sleep at night<br> Current Mood: " Every now and then I feel the temptation to design a programming language but then I just lie down until it goes away "<br>
 
 
 ## 🌐 Socials:
